@@ -33,7 +33,7 @@ The Sperm Morphology Image Data Set (SMIDS) contains 3000 images distributed as:
 - Abnormal_Sperm: 1005 images 
 - Non-Sperm: 974 images
   
-![Distribution of Tumor Types](https://github.com/Harsha-096/Medical-Image-Classification-using-the-Sperm-Morphology-Image-Dataset/blob/441a846a8c5e06a388896f04d85456526ba7855d/Reports/Distribution%20of%20Tumor%20Types.png)
+![Distribution of Tumor Types](https://github.com/KapuRamyasree/Medical-Image-Classification-using-the-Sperm-Morphology-Image-Dataset/blob/441a846a8c5e06a388896f04d85456526ba7855d/Reports/Distribution%20of%20Tumor%20Types.png)
 
 ## Technical Implementation
 
@@ -70,7 +70,7 @@ weighted avg       0.85      0.85      0.85       307
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/Harsha-096/Medical-Image-Classification-using-the-Sperm-Morphology-Image-Dataset.git
+git clone https://github.com/KapuRamyasree/Medical-Image-Classification-using-the-Sperm-Morphology-Image-Dataset.git
 
 2. Install dependencies:
 
